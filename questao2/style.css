@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+nav > a{
+    display: inline-block;
+    width: 20vw;
+    text-align: center;
+    background-color: rgb(123, 238, 121);
+    text-decoration: none;
+    border-radius: 7px;
+    color: black;
+}
+
+section{
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    background-color: rgb(117, 117, 177);
+    width: 45vw;
+    margin: 5vw;
+    border: solid;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
