@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(105, 165, 214);
+}
+
+#perfis{
+    
+    display: flex;
+    flex-direction: column;
+    height: 650px;
+    width: 500px;
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.p1,.p2,.p3,.p4{
+    background-color: blanchedalmond;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    padding-top: 55px;
+    padding-left: 160px;
+    
+}
+
+div > p{
+    color: rgb(105, 105, 105);
+}
+
+img{
+    width: 100px;
+}
+
+.foto1{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+
+.foto2{
+    position: absolute;
+    left: 80px;
+    top: 235px;
+}
+
+.foto3{
+    position: absolute;
+    left: 80px;
+    top: 390px;
+}
+
+.foto4{
+    position: absolute;
+    left: 80px;
+    top: 560px;
+}
